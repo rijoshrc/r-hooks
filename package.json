@@ -1,6 +1,6 @@
 {
   "name": "@rrc-npm/r-hooks",
-  "version": "1.0.5",
+  "version": "1.0.7",
   "description": "React custom hooks",
   "main": "./lib/hooks.js",
   "scripts": {
