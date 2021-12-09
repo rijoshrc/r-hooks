@@ -1,0 +1,7 @@
+============== Publish package===============
+
+1. Make changes in the code
+2. Update version in package.json
+3. Run `yarn build` or `npm run build`
+4. Run `npm pack`
+5. Run `npm publish`

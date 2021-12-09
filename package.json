@@ -8,6 +8,7 @@
   },
   "author": "Rijosh <rijosh.dev@gmail.com>",
   "license": "MIT",
+  "repository": "https://github.com/rijoshrc/r-hooks",
   "peerDependencies": {
     "react": "^16.0.0"
   },
